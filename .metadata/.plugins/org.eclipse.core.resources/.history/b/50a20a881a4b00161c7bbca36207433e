@@ -1,0 +1,11 @@
+package linkedLists;
+
+public class PrintElements {
+	
+	void Print(Node* head) {
+		  
+		
+		  
+	}
+	
+}
